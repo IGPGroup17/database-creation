@@ -18,7 +18,7 @@ jobs:
       - name: Copycat Action
         uses: andstor/copycat-action@v3.2.3
         with:
-          personal_token: ${{ secrets.AGGREGATED_SOURCE_TOKEN }}
+          personal_token: hihihi
           src_path: /.
           dst_path: /db/
           dst_owner: IGPGroup17
